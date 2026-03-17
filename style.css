@@ -1,0 +1,25 @@
+body {
+    background-color: #fff200;
+    color: #FFF800;
+}
+button{
+color:#fff200;
+background-color: #1d6296;
+border-color: rgba(245, 244, 244, 0.8);
+}
+h1, h2, h3{
+    color: #fffb00;
+    text-transform: uppercase;
+}
+p {
+    color: #fff700;
+    text-transform: uppercase;  
+}
+body {
+    background-image: url('https://m.media-amazon.com/images/I/71sDSVFY1cS._AC_UF894,1000_QL80_.jpg');
+}
+*{
+  font-family: "Monsieur La Doulaise";
+  margin: 7px;
+  padding: 15px;
+}
